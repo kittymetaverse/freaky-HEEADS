@@ -398,7 +398,6 @@ function App() {
               style={{ transform: "scaleX(-1)" }}
             />
           </s.Container>
-        </ResponsiveWrapper>
         <s.SpacerMedium />
         <s.Container jc={"center"} ai={"center"} style={{ width: "70%" }}>
           <s.TextDescription
