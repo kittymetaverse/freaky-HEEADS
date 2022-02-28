@@ -417,7 +417,6 @@ function App() {
             }}
           >
             Freaky Heads @2022
-          </s.TextDescription>
   );
 }
 
