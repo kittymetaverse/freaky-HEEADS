@@ -262,7 +262,6 @@ function App() {
                   window.open("_blank");
                 }}
               >
-            </span>
             <s.SpacerSmall />
             {Number(data.totalSupply) >= CONFIG.MAX_SUPPLY ? (
               <>
