@@ -415,4 +415,3 @@ function App() {
               textAlign: "center",
               color: "var(--primary-text)",
             }}
-export default App;
