@@ -415,7 +415,6 @@ function App() {
               textAlign: "center",
               color: "var(--primary-text)",
             }}
-          >
             Freaky Heads @2022
   );
 }
