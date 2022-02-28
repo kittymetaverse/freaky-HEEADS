@@ -260,11 +260,9 @@ function App() {
                   margin: "5px",
                 }}
                 onClick={(e) => {
-                  window.open(CONFIG.MARKETPLACE_LINK, "_blank");
+                  window.open("_blank");
                 }}
               >
-                {CONFIG.MARKETPLACE}
-              </StyledButton>
             </span>
             <s.SpacerSmall />
             {Number(data.totalSupply) >= CONFIG.MAX_SUPPLY ? (
